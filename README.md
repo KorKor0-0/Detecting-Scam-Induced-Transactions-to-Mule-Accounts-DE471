@@ -142,9 +142,6 @@ This dataset was generated using a structured prompt to simulate realistic Thai 
 - ใช้กำหนด พื้นที่เฝ้าระวัง (High-Risk Locations)
 - เพิ่มประสิทธิภาพในการ ตรวจจับ fraud เชิงพื้นที่ (location-based monitoring)
 ---
-## Confusion Matrix
-รูป
----
 ## Findings and Insights
 1. Money Flow Anomaly (พฤติกรรมการไหลของเงิน)
 - Account Draining Effect: บัญชี High-risk มี Outflow Ratio สูง (80–100%) สะท้อนพฤติกรรม “รับแล้วโอนออกหมด”
