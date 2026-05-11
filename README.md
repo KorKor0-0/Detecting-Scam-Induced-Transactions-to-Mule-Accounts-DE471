@@ -86,7 +86,8 @@ This dataset was generated using a structured prompt to simulate realistic Thai 
 
 ---
 ## Exploratory Data Analysis
-รูป
+<img src="images/eda_1.png" width="700">
+
 **Key Insight**
 - บัญชีที่มีความเสี่ยงสูงกระจุกตัวที่ Outflow Ratio 80–100%
 - ปริมาณธุรกรรม (Transaction Volume) ไม่สามารถแยก fraud ได้ชัดเจน
@@ -99,7 +100,8 @@ This dataset was generated using a structured prompt to simulate realistic Thai 
 - ช่วยตรวจจับ fraud ได้ แม้ไม่ได้มีปริมาณธุรกรรมสูง
 - สนับสนุนการพัฒนา behavior-based detection
 ---
-รูป
+<img src="images/eda_2.png" width="700">
+
 **Key Insight**
 - ธุรกรรมในช่วงเวลา 02:00 น. มีสัดส่วน High-Risk สูงสุด (~10.5%)
 **Interpretation**
@@ -111,7 +113,8 @@ This dataset was generated using a structured prompt to simulate realistic Thai 
 - เพิ่มประสิทธิภาพในการ ตรวจจับ fraud แบบเชิงเวลา (time-based monitoring)
 - ช่วยจัดสรรทรัพยากรในการป้องกัน fraud ได้เหมาะสมยิ่งขึ้น
 ---
-รูป
+<img src="images/eda_3.png" width="700">
+
 **Key Insight**
 - Crypto Wallet มีสัดส่วนธุรกรรมความเสี่ยงสูงสุด (~100%)
 - ช่องทางอื่นมีความเสี่ยงต่ำกว่าชัดเจน
@@ -125,7 +128,8 @@ This dataset was generated using a structured prompt to simulate realistic Thai 
 - โฟกัสตรวจสอบช่องทางเสี่ยงสูง
 - เพิ่มประสิทธิภาพการตรวจจับ fraud
 ---
-รูป
+<img src="images/eda_4.png" width="700">
+
 **Key Insight**
 - หลายพื้นที่มี High-Risk Rate สูงถึง 100% เช่น Chiang Rai, Mukdahan, Tak
 - จังหวัดหลักอย่าง Nakhon Ratchasima และ Chiang Mai ก็มีความเสี่ยงสูง (>60%)
