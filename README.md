@@ -169,3 +169,8 @@ This dataset was generated using a structured prompt to simulate realistic Thai 
 Customer Experience: เพิ่มความปลอดภัยสูงสุดโดยที่ลูกค้าปกติยังใช้งานได้ราบรื่น (Minimal Disruption)
 
 ---
+
+## Team Members
+- Panitta Jingjit    66102010173
+
+- Chanaporn Saikaew  66102010577
